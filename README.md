@@ -116,5 +116,5 @@ Archive of Fortntie AES Main keys these are mostly from Bizzfarts and 0x41414141
 ## Season 15
 | Version           | Key                                                                   |                        
 | ----------------- | --------------------------------------------------------------------- | 
-| 15.00             | 4bdb8f6be2b8587e8f28b8898283c340d6283f6c4f58e4a41c3066d39e4637c2      |
-| 15.10             | 7fe21f0b0d2c00867cd7b6da553d0b6b00cfaf66e0bbb8d5365672afb442e8ee      |
+| 15.00             | 0x4bdb8f6be2b8587e8f28b8898283c340d6283f6c4f58e4a41c3066d39e4637c2    |
+| 15.10             | 0x7fe21f0b0d2c00867cd7b6da553d0b6b00cfaf66e0bbb8d5365672afb442e8ee    |
