@@ -1,4 +1,14 @@
 Archive of Fortntie AES Main keys these are mostly from Bizzfarts and 0x41414141 Paste Bin (Credit: Bizzfarts) (Credit: 0x41414141)
+## Season 2
+| Version           | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 2.xx              | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4    |
+
+## Season 3
+| Version           | Key                                                                   |
+| ----------------- | --------------------------------------------------------------------- |
+| 3.xx              | 0xADBB45488E8DE69437AD4F31D3569B0F710D2092799BFB1CE21D5CF9744097C3    |
+
 
 ## Season 4
 | Version           | Key                                                                   |
